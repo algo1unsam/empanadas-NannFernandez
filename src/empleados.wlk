@@ -33,6 +33,8 @@ object baigorria {
 	method cobrarSueldo(){
 		haberes+=self.sueldo()
 	}
+	
+	// falta contraer y pagar deuda
 }
 
 
